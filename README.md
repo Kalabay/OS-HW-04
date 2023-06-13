@@ -16,15 +16,15 @@
 Далее в зависимости от сценария клиент звонит или слушает звонящего (сделал через sleep(10))
 
 ## Про решение на 4-5 
-[код-сервер](https://github.com/Kalabay/OS-HW-04/blob/main/client.c)
-[код-клиент](https://github.com/Kalabay/OS-HW-04/blob/main/server.c)
+[код-сервер](https://github.com/Kalabay/OS-HW-04/blob/main/server.c)
+[код-клиент](https://github.com/Kalabay/OS-HW-04/blob/main/client.c)
 Передаю через ввод в терминале серверу аргументы = количество болтунов и порт.
 Передаю через ввод в терминале клиенту аргументы = адресс и порт
 
 ## Про решение на 6-7
 добавил клиент для логирования и обновил сервер. Логер = первый подключенный клиент, следующие уже опять болтуны
-[код-сервер](https://github.com/Kalabay/OS-HW-04/blob/main/client7.c)
-[код-клиент](https://github.com/Kalabay/OS-HW-04/blob/main/server7.c)
+[код-сервер](https://github.com/Kalabay/OS-HW-04/blob/main/server7.c)
+[код-клиент](https://github.com/Kalabay/OS-HW-04/blob/main/client7.c)
 
 
 ### Примеры
